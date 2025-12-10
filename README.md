@@ -1,7 +1,7 @@
 # CPE009A-PROJECT-CONDINO
 <hr>
 
-<span style = "font-size:200pt;color:red;">This folder holds all of the projects I did for CPE009A</span>
+<p align ="center" >This folder holds all of the projects I did for CPE009A</p>
 <hr>
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/djcnrah-ef8e4276-5bf8-4ff9-8180-411d5fdda051.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGpjbnJhaC1lZjhlNDI3Ni01YmY4LTRmZjktODE4MC00MTFkNWZkZGEwNTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6Pdpb6yGsTKGzQOunObV1qkqzh9fr83LktLdPxFxcCM" alt="Computer man" style="width:1280px;height:720px;align:center;">
