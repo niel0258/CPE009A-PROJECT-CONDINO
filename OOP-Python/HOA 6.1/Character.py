@@ -1,5 +1,10 @@
 class Character ():
+    char_list = []
+    player_list = []
+    
     def __init__(self,username):
+        Character.char_list.append(self)
+        self.__wins = 0
         self.__username = username
         self.__hp = 100
         self.__mana = 100
@@ -40,3 +45,11 @@ class Character ():
         self.__hp = self.__hp - damage_amount
     def addHp(self,heal_amount):
         self.__hp = self.__hp + heal_amount
+    def set_wins(self,wins):
+        self.__wins = wins
+    def check_wins(self):
+        return self.__wins
+    def is_a_player(self):
+        return self in Character.player_list
+    def be_player(self):
+        Character.player_list.append(self)

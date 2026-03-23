@@ -14,6 +14,7 @@ Character1.basicAttack(Character2)
 printHp(Character1)
 printHp(Character2)
 Character2.heal()
-Character2.slashAttack(Character1)#changed magicAttack to slashAttack
+Character2.magicAttack(Character1)
+#Character2.slashAttack(Character1)#changed magicAttack to slashAttack
 printHp(Character1)
 printHp(Character2)
